@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/YeralD21/C1-G5-GymMS.git # ruta del repositorio git
+          uri: https://github.com/YeralD21/ProyectGimnasio.git # ruta del repositorio git
           searchPaths: config-data
           default-label: main
 
